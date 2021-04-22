@@ -1,4 +1,4 @@
-# Breakout-Project
+# Breakout Game
 
 Using OpenGL
 
